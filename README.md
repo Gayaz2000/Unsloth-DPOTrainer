@@ -1,11 +1,11 @@
 ---
 base_model: unsloth/Llama-3.2-1B-Instruct
-library_name: peft
+library_name: unsloth
 ---
 
 # Model Card for Model ID
 
-<!-- Provide a quick summary of what the model is/does. -->
+<!--  -->
 
 
 
@@ -17,10 +17,10 @@ library_name: peft
 
 
 
-- **Developed by:** [More Information Needed]
-- **Funded by [optional]:** [More Information Needed]
+- **Developed by:** [Gayaz Shain]
+- **Funded by [optional]:** [Own]
 - **Shared by [optional]:** [More Information Needed]
-- **Model type:** [More Information Needed]
+- **Model type:** [Llama3.2:1b]
 - **Language(s) (NLP):** [More Information Needed]
 - **License:** [More Information Needed]
 - **Finetuned from model [optional]:** [More Information Needed]
