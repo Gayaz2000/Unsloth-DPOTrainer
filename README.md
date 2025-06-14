@@ -17,7 +17,7 @@ library_name: unsloth
 
 
 
-- **Developed by:** [Gayaz Shain]
+- **Developed by:** [Gayaz Shaik]
 - **Funded by [optional]:** [Own]
 - **Shared by [optional]:** [More Information Needed]
 - **Model type:** [Llama3.2:1b]
